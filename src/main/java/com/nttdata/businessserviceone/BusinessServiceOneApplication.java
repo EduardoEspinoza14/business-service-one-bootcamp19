@@ -1,4 +1,4 @@
-package com.nttdata.business_service_one;
+package com.nttdata.businessserviceone;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

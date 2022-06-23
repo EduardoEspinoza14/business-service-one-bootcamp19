@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: business-service-one
+  cloud:
+    config:
+      uri: http://20.187.90.183:8081
+      username: bootcamp19
+      password: b00tc4mp19
+      profile: local

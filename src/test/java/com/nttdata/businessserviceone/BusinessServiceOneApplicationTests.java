@@ -1,4 +1,4 @@
-package com.nttdata.business_service_one;
+package com.nttdata.businessserviceone;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
